@@ -1,0 +1,16 @@
+PODS:
+  - SDSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - SDSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  SDSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SDSuperImages: 6c7ca08b94267a29f32d2000fe2837de798695fe
+
+PODFILE CHECKSUM: 238c6a85fc5f93cf6e5ec88f37a9655d1e52941e
+
+COCOAPODS: 1.7.5

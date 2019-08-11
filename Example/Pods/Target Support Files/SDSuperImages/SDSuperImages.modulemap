@@ -1,0 +1,6 @@
+framework module SDSuperImages {
+  umbrella header "SDSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

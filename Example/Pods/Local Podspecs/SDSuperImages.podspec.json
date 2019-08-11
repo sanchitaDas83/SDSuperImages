@@ -1,0 +1,22 @@
+{
+  "name": "SDSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of SDSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sdas7/SDSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sdas7": "sanchita_das@contracted.sampoerna.com"
+  },
+  "source": {
+    "git": "https://github.com/sdas7/SDSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SDSuperImages/Classes/**/*"
+}
